@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/sdcrea/sdcrea1701/sdcrea170100086/69361961-tv-logo-design-concept-eps-8-supported.jpg" group-tittle="lokal",antv
@@ -7,3 +8,8 @@ https://stream-01.sg1.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfDvdWEJ1G-PRS2dVH2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="lokal",Metro TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
+https://avi-live-channel-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
