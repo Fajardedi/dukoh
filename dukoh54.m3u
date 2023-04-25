@@ -9,3 +9,6 @@ https://stream-01.sg1.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfDvdWEJ1G-PRS2dVH2
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="lokal" , SCTV
+http://210.210.155.37/qwr9ew/s/s03/01.m3u8
