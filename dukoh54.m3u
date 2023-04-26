@@ -204,11 +204,6 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.
 #KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
 https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/H8u9IWv.png" group-tittle="NASIONAL",ANTV
-#EXTVLCOPT:http-referrer=https://www.dailymotion.com/,http-user-agent=Mozilla/5.0 (Linux; Android 9; Mi A1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-https://anevi-live-channel-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/H8u9Nee.png" group-tittle="NASIONAL",BERITA SATU
 #EXTHTTP:{"User-Agent":"Chrome","SomeOtherTag":"SomeValue"}
