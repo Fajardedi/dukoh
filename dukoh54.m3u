@@ -1,11 +1,5 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/sdcrea/sdcrea1701/sdcrea170100086/69361961-tv-logo-design-concept-eps-8-supported.jpg" group-tittle="lokal",antv
-https://stream-01.sg1.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfDvdWEJ1G-PRS2dVH2BQKWi9zkKY6zPc0vIc9I5A38uQ)/dm/3/x8chy4s/s/live-3.m3u8#cell=lsg1
-
-#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/sdcrea/sdcrea1701/sdcrea170100086/69361961-tv-logo-design-concept-eps-8-supported.jpg" group-tittle="lokal",rcti
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/sdcrea/sdcrea1701/sdcrea170100086/69361961-tv-logo-design-concept-eps-8-supported.jpg" group-tittle="lokal",
 
